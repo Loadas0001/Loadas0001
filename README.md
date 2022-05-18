@@ -13,6 +13,4 @@ Gmail:guhreisdiscord88@gmail.com
 
 Instagram:https://www.instagram.com/gustavocoding/
 
-Site:https://hugdev.netlify.app/
-
-
+Site:https://gustavoreis.netlify.app/
